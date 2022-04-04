@@ -5,7 +5,7 @@ Sujet proposé par Vincent Chabannes (voir "sujet_projet.pdf")
 
 Ce projet a pour but de réaliser un programme C++ permettant d'étudier le comportement thermique d'un dispositif de refroidissement d'un micro-processeur. Nous allons nous intéresser uniquememt à la simulation thermique d'une seule ailette du dissipateur.
 
-**Pour plus de détail sur le projet et sur son utilisation, consulter le fichier rapport.pdf.**
+**Pour plus de détail sur le projet et sur son utilisation, consulter le fichier "rapport.pdf".**
 
 ## Comment compiler et exécuter le projet ?
 

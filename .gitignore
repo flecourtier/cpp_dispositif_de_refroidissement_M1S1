@@ -1,0 +1,6 @@
+resultats/fichiers_resultats/solution3D_instat_activ_desactiv/*
+resultats/fichiers_resultats/solution3D_instat_flux_constant/*
+resultats/fichiers_resultats/convergence_instat_vers_stat.csv
+resultats/fichiers_resultats/maillage.vtk
+resultats/fichiers_resultats/solution1D*
+resultats/fichiers_resultats/solution3D*
